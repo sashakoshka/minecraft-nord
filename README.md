@@ -4,7 +4,7 @@
 
 This pack is an attempt to create a nice and cohesive implementation of the Nord color palette for Minecraft. Only user interface elements will be textured.
 
-*This is a work in progress. Many textures have not been completed yet.*
+*This is a work in progress. Some textures have not been completed yet.*
 
 ## Build instructions
 
@@ -21,5 +21,7 @@ Alternatively, you can just zip the files and install manually.
 ![Title screen](preview/0.png)
 ![Title screen](preview/1.png)
 ![Title screen](preview/2.png)
+![Title screen](preview/3.png)
+![Title screen](preview/4.png)
 
 *(The shaders displayed in this screenshot are not part of the pack)*
