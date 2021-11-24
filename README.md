@@ -19,9 +19,9 @@ Alternatively, you can just zip the files and install manually.
 ## Preview
 
 ![Title screen](preview/0.png)
-![Title screen](preview/1.png)
-![Title screen](preview/2.png)
-![Title screen](preview/3.png)
-![Title screen](preview/4.png)
+![Survival mode](preview/1.png)
+![Survival inventory](preview/2.png)
+![Creative inventory](preview/3.png)
+![Pause menu](preview/4.png)
 
-*(The shaders displayed in this screenshot are not part of the pack)*
+*(The shaders displayed in these screenshots are not part of the pack)*
